@@ -87,4 +87,4 @@ The analytical centerpiece of the project:
 This analysis reveals a restaurant market with significant unmet demand for quality dining experiences. The clear geographic and quality disparities present straightforward investment opportunities: acquire proven quality operators in San Luis Potosi and develop the completely underserved Ciudad Victoria market. By focusing on the Medium price tier and Mexican cuisine while diversifying with complementary concepts, investors can build a dominant portfolio that meets clear consumer demand for better dining options.
 
 ---
-*For more information or to explore the interactive dashboards, please contact [Your Name/Email].*
+
